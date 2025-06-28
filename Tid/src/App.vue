@@ -131,9 +131,4 @@ main {
   cursor: pointer;
 }
 
-p-input-icon-right > i {
-  top: 50%;
-  transform: translateY(-50%);
-  color: #6b7280; 
-}
 </style>
